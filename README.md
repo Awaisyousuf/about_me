@@ -2,7 +2,6 @@
 
 🚀 **Senior PHP/Laravel Developer | Full-Stack Enthusiast**  
 
-![GitHub Profile Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
 
 ---
 
