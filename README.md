@@ -52,8 +52,7 @@ Although my repositories are private, here are some of my notable projects:
 
 ---
 
-## 📊 GitHub Stats  
-![Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Awaisyousuf&show_icons=true&theme=radical)
+
 
 ---
 
